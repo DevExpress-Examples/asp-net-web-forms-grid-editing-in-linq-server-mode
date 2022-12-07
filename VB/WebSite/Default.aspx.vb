@@ -13,7 +13,7 @@ Namespace LinqServerModeWithUpdates
 
 		End Sub
 
-		Protected Sub ASPxGridView1_CellEditorInitialize(ByVal sender As Object, ByVal e As DevExpress.Web.ASPxGridView.ASPxGridViewEditorEventArgs)
+		Protected Sub ASPxGridView1_CellEditorInitialize(ByVal sender As Object, ByVal e As DevExpress.Web.ASPxGridViewEditorEventArgs)
 			If ASPxGridView1.IsNewRowEditing AndAlso e.Column.FieldName = "CustomerID" Then
 				e.Editor.ReadOnly = False
 			End If

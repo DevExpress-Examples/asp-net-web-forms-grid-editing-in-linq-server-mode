@@ -11,7 +11,7 @@ namespace LinqServerModeWithUpdates {
 
         }
 
-        protected void ASPxGridView1_CellEditorInitialize(object sender, DevExpress.Web.ASPxGridView.ASPxGridViewEditorEventArgs e) {
+        protected void ASPxGridView1_CellEditorInitialize(object sender, DevExpress.Web.ASPxGridViewEditorEventArgs e) {
             if(ASPxGridView1.IsNewRowEditing && e.Column.FieldName == "CustomerID")
                 e.Editor.ReadOnly = false;
         }
