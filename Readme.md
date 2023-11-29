@@ -9,7 +9,7 @@ This example demonstrates the grid bound to [LinqServerModeDataSource](https://d
 
 * Specify the [ASPxGridView.KeyFieldName](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridBase.KeyFieldName) property value.
 * Display command buttons in the grid.
-* Set data source's [EnableUpdate](https://docs.devexpress.com/AspNet/DevExpress.Data.Linq.LinqServerModeDataSource.EnableUpdate), [EnableInsert](https://docs.devexpress.com/AspNet/DevExpress.Data.Linq.LinqServerModeDataSource.EnableInsert), and [EnableDelete](https://docs.devexpress.com/AspNet/DevExpress.Data.Linq.LinqServerModeDataSource.EnableDelete) properties to `True`.
+* Set the data source's [EnableUpdate](https://docs.devexpress.com/AspNet/DevExpress.Data.Linq.LinqServerModeDataSource.EnableUpdate), [EnableInsert](https://docs.devexpress.com/AspNet/DevExpress.Data.Linq.LinqServerModeDataSource.EnableInsert), and [EnableDelete](https://docs.devexpress.com/AspNet/DevExpress.Data.Linq.LinqServerModeDataSource.EnableDelete) properties to `True`.
 
 ## Files to Review
 
