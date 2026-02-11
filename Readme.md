@@ -22,7 +22,7 @@ This example demonstrates the grid bound to [LinqServerModeDataSource](https://d
 
 * [Bind Grid View to Large Data (LINQ)](https://docs.devexpress.com/AspNet/4059/components/grid-view/concepts/bind-to-data/binding-to-large-data-database-server-mode/data-binding-to-large-data-via-linq)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-editing-in-linq-server-mode&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-editing-in-linq-server-mode&~~~was_helpful=no)
 
